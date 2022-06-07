@@ -13,3 +13,9 @@
     padding:10px ;
     border: 1px solid black;
 }
+
+/* design cart */
+.Cart{
+    display: flex;
+    flex-direction: column;
+}
