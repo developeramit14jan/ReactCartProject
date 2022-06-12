@@ -51,7 +51,7 @@ class CartItem extends React.Component {
 
     render() {
         // this is destructuring
-        const { price, title, qty ,img} = this.state;
+        const { price, title, qty ,img} = this.props;
         return (<div className="cart-item">
             {/* now we have two block which are left and right */}
             <div className="left-block">
