@@ -7,11 +7,12 @@
 .cart-item{
     display:inline-flex;
     margin: 20px 10px;
-    border: 1px solid red;
+    padding: 10px;
+    border:1px solid lightgrey;
 }
 .right-block{
     padding:10px ;
-    border: 1px solid black;
+    line-height: 1.5;
 }
 
 /* design cart */
